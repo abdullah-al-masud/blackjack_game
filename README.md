@@ -6,12 +6,12 @@ This is a multiplayer blackjack game played from command line. The game is devel
 Numpy</br>
 
 ### How to play:
-"""
+```
 Clone the repository
 install dependencies
 Go to the folder blakcjack_game using "cd" command in command line.
 write python blackjack.py in command line and enjoy the game.
-"""
+```
 
 ### Game features:
 Multiplayer game </br>
