@@ -10,7 +10,7 @@ Numpy</br>
 Clone the repository
 install dependencies
 Go to the folder blackjack_game using "cd" command in command line.
-write python blackjack.py in command line and enjoy the game.
+write "python blackjack.py" in command line and enjoy the game.
 ```
 
 ### Game features:
