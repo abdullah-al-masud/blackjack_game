@@ -5,6 +5,14 @@ This is a multiplayer blackjack game played from command line. The game is devel
 ### Dependencies:
 Numpy</br>
 
+### How to play:
+"""
+Clone the repository
+install dependencies
+Go to the folder blakcjack_game using "cd" command in command line.
+write python blackjack.py in command line and enjoy the game.
+"""
+
 ### Game features:
 Multiplayer game </br>
 The initial balance for each player is $500.</br>
@@ -15,6 +23,9 @@ The number of card deck is 6 and is shuffled in the beginning and when total num
 The game usually starts with a number of people taken as input and also their names.</br>
 If you dont insert any name, the names will automatically be placed as 'player-1', 'player-2' etc.</br>
 
+
+### Game preview:
+![](https://github.com/abdullah-al-masud/blackjack_game/blob/master/blackjack_screenshot.PNG)
 
 ### Limitations:
 Splitting is prohibitted / No option for splitting</br>
