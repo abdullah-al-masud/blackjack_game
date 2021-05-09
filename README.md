@@ -2,6 +2,8 @@
 
 This is a multiplayer blackjack game played from command line. The game is developed just for fun and for my personal skill development. I also had an intention to create automated players based on Reinforcement Learning and probabilistic/statistical methods. But they are not implemented yet.
 
+### Dependencies:
+Numpy</br>
 
 ### Game features:
 Multiplayer game </br>
